@@ -22,7 +22,7 @@
     "url": "https://github.com/nestjs/graphql/issues"
   },
   "devDependencies": {
-    "@apollo/gateway": "0.46.0",
+    "@apollo/gateway": "0.47.0",
     "@nestjs/common": "8.2.6",
     "@nestjs/core": "8.2.6",
     "@nestjs/platform-express": "8.2.6",
@@ -40,7 +40,7 @@
     "lodash.omit": "4.5.0"
   },
   "peerDependencies": {
-    "@apollo/gateway": "^0.44.1 || ^0.46.0",
+    "@apollo/gateway": "^0.44.1 || ^0.46.0 || ^0.47.0",
     "@nestjs/common": "^8.2.3",
     "@nestjs/core": "^8.2.3",
     "apollo-server-core": "^3.5.0",
